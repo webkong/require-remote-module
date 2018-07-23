@@ -1,0 +1,22 @@
+{
+  "name": "require-remote-module",
+  "version": "1.0.1",
+  "description": "Require remote modules from any URL",
+  "main": "index.js",
+  "repository": "https://github.com/webkong/require-remote-module.git",
+  "author": "webkong <772930508@qq.com>",
+  "license": "MIT",
+  "tags": [
+    "npm", "node", "require", "remote", "import", "url", "async"
+  ],
+  "dependencies": {
+    "got": "^7.0.0",
+    "require-from-string": "^1.2.1"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
