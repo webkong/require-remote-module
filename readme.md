@@ -1,15 +1,7 @@
 
 # require-remote-module
 
-<p align="center">
-  <i>Require remote modules from any URL</i>
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/require-remote-module">
-  <img src="https://img.shields.io/github/downloads/webkong/require-remote-module/total.svg" /></a>
-  
-</p>
-
+>Require remote modules from any URL
 
 ## Install
 
@@ -42,5 +34,4 @@ fun.then((f)=>{
 
 ## Author
 
-![me](https://s.gravatar.com/avatar/1fe24100ab2109076fd777d1ad0a28c5?s=200)
-© 2018 [webkong](https://github.com/webkong)                           
+![me](https://s.gravatar.com/avatar/1fe24100ab2109076fd777d1ad0a28c5?s=100)
