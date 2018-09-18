@@ -1,6 +1,6 @@
 {
   "name": "require-remote-module",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Require remote modules from any URL",
   "main": "index.js",
   "repository": "https://github.com/webkong/require-remote-module.git",
